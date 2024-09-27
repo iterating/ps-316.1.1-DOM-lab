@@ -47,4 +47,3 @@ menuLinks.forEach((link) => {
 });
 }
 
-DOMdolla(menuLinks);
